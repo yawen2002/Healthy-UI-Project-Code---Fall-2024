@@ -1,0 +1,66 @@
+nav{
+    padding: 10px 2%; /* Padding for the navigation bar */
+    justify-content: space-between; /* Space between the navigation items */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Shadow effect for the navigation bar */
+    background: #fff; /* Background color of the navigation bar */
+    position: sticky; /* Makes the navigation bar stick to the top */
+    top: 0; /* Position at the top */
+    z-index: 10; /* z-index to ensure the navigation bar is on top */
+}
+.nav-right img{
+    width: 25px; /* Width of the icons in the right section */
+    margin-right: 25px; /* Margin to the right of the icons */
+}
+.nav-right .user-icon{
+    width: 35px; /* Width of the user profile image */
+    border-radius: 50%; /* Makes the user profile image circular */
+    margin-right: 0; /* No margin to the right of the user profile image */
+}
+.nav-left .menu-icon{
+    width: 22px; /* Width of the menu icon */
+    margin-right: 25px; /* Margin to the right of the menu icon */
+}
+.nav-left .logo{
+    width: 130px; /* Width of the logo */
+}
+.nav-middle .search-box{
+    border: 1px solid #ccc; /* Border of the search box */
+    margin-right: 15px; /* Margin to the right of the search box */
+    padding: 8px 12px; /* Padding inside the search box */
+    border-radius: 25px; /* Rounded corners for the search box */
+}
+.nav-middle .search-box input{
+    width: 400px; /* Width of the search input field */
+    border: 0; /* No border for the search input field */
+    outline: 0; /* No outline for the search input field */
+    background: transparent; /* Transparent background for the search input field */
+}
+.nav-middle .search-box img{
+    width: 15px; /* Width of the search icon */
+}
+
+@media (max-width: 900px){
+    .menu-icon{
+        display: none; /* Hide the menu icon on small screens */
+    }
+
+    
+    .nav-right img{
+        display: none; /* Hide the icons in the right section on small screens */
+    }
+
+
+    .nav-right .user-icon{
+        display: block; /* Show the user profile image on small screens */
+        width: 30px; /* Width of the user profile image on small screens */
+    }
+    .logo{
+        width: 90px; /* Width of the logo on small screens */
+    }
+    .nav-middle .mic-icon{
+        display: none; /* Hide the mic icon in the middle section on small screens */
+    }
+    .nav-middle .search-box input{
+        width: 100px; /* Width of the search input field on small screens */
+    }
+}

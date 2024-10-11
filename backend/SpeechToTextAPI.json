@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "youtoobe-project",
+    "private_key_id": "d24a0bdcab49658f7a73fe0df1ade2a5c063b492",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrI5KqCB+6fAR4\nixcpLSMIrsjCGoUO2jK/vq9IOUtCkrmJtAj7jTBR0oBIXXKm6+MCQbRf0IsNM/yP\nYZWAMrak1s77MBdVcUV/jMQgo5wqap0zlCmx5cdCbZnNHqODRHQdzXAxG1IMmAuL\nQWNOzs1KQgAZmg15UCLmhTBQ6BZ417TMdJF5/TxmTA483Bl9tpoVLL8NT1Ql0gTY\n4pk9069J97UW/K6cPt++T2v/kTscuusfR9PWtZj3kSaUkhQrdHesfndU1s/qdP0P\nxwCrs2SNviB8DtAA+PDkJkzAQEBfs5Q8R1Drjef04KsN+LMMntz3rOWYBobTFHEI\ns3uoB0FLAgMBAAECggEAAjo7TXU/nHjCwiLlUUbiHtnPiR85PiE+6dn8hA8i2KH6\nQj2SpFuJFneL7eUxedS2JrBePaUEOk7D6cXWYU3HrMuS9BgDJbyMsAVQBDC89pxe\noW47QLKB7m5oww+0ByBb9otW+3yki79q3wwh08PDTkUfpTWpGTweyCtRnqv2pun6\nVjlHoZ43XFkbd5PD/HnmzoeLRhAlGyxO//8ZuVU1zUuJA86ILYq3LCyad56yaQCM\nZSzW8CivLg7IB6k1m6hYTSQKudWr2jcqW0c5BqqglkfyL0BzggpCSxfCIf+HuDpd\nqCJRxkCe6N7ZjC1nz6q7gTKPlArwtvvhlh3uvTAHaQKBgQDsa00rgEaALA3u+3xn\ng4lsZJ/k4q1pTM541Xs4H750N6TjdS8ntEDcAT6yOFzfYa6j7LeztGIyrhjNr31h\nt82mzSIB8wBr1w9tlQ30/lnplmjRI5pZ1d7yw0IZA7Gk0d3JLup45sfzswpXcW4X\n5ZZRaGr7fQwpetsZi4JEO9CNrQKBgQC5UCmK66dvhzt5/EbqoHmfmtYj0CvrpxHm\njqDJIM3DLFUgddJVXV688acxKGSrDUriJBY+ckUxPmCclq2tFu30vaUgfG2+ce2k\nWryOQul15EQQQvSvCw8Woe0jTZ1l59g6i7gbX5cWUrdJ/+Tx3VdsqyYSI9NsErfR\n7/s9Fr/51wKBgQCMKoXDH7cssHHGWVWFbYfhOrtNkVLsljvnifIW8UMSVhctP8Go\nUYcOqLJKKX5uddR7nZHAOlbp4ywTblLwx29m0EG0VCTQyt17w55VvSMDiUg1jl0p\nm9IlrbwXZohAxqguaeFbsr+jbWfZNgfmpRh8xWKAHcBDK3KQ75RY7fmUtQKBgBit\nMwr7vG0eje39iRf/TJLTVIaqVt7nfXu9LG37/0ppIeDTr7GMYGw6pa/nGBirCXi5\no3inUM1w5/6SFgiBkChSBKYhy59bnnCPYKJ1CI+ZWPLtZ5XTnCvAXkqgMEB8sg+B\nwX9rqDvhweSJvdvzRIwE8mnh+Wpfx7ieA0+sMt47AoGBAMRVG2liEdvNlFb0oVol\nXeB2fZxs2+nK84MoScwpjlSY9qj8XAV1OTEP90WQGJsXBvJ+cWE0xZUdAhJwRbxO\nms5vUnbbRL5M/jqrN1biuFEreOAawrHC3DYTutljacR3S82j0+ixIOk7RDBVP+Il\n/hNQKpjJQHbXVBTLAOl6PJon\n-----END PRIVATE KEY-----\n",
+    "client_email": "youtoobe-project@youtoobe-project.iam.gserviceaccount.com",
+    "client_id": "111189374334970285584",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/youtoobe-project%40youtoobe-project.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
